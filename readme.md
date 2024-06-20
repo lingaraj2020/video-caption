@@ -14,5 +14,5 @@ The Video Caption App is a web application designed to allow users to add captio
 
 1. **Clone the Repository:**
 
-   git clone "https://github.com/lingaraj2020/video-caption"
-   cd video_caption
+   -git clone "https://github.com/lingaraj2020/video-caption"
+   -cd video_caption
